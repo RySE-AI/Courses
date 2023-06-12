@@ -1,2 +1,2 @@
 # Courses
-Materials, Submissions, Ressources
+Materials, Submissions, Ressources from Courses I took.
